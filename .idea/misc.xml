@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_admin.xml" value="0.128" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_detail.xml" value="0.27447916666666666" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_detail_perlengkapan.xml" value="0.264" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_informasi.xml" value="0.16" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_lokasi.xml" value="0.24954710144927536" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_regis.xml" value="0.25407608695652173" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_regist.xml" value="0.16" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/custom_row.xml" value="0.264" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/fragment_informasi_list.xml" value="0.2" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/fragment_list.xml" value="0.4" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/fragment_tambah.xml" value="0.1" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/fragment_update.xml" value="0.264" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/layout_list_dosen.xml" value="0.1" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/layout/layout_list_perlengkapan.xml" value="0.264" />
+        <entry key="..\:/Tugas/WPM/rsprima2/app/src/main/res/menu/menu_hapus.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
